@@ -31,8 +31,7 @@ DishCraft is a modern web application for discovering, sharing, and managing you
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/DishCraft.git
-   cd DishCraft
+   https://github.com/piyush118-b/reactjs-ai-recipe-generator.git
    ```
 
 2. Install dependencies for both client and server:
@@ -67,7 +66,7 @@ DishCraft is a modern web application for discovering, sharing, and managing you
 ## 📂 Project Structure
 
 ```
-DishCraft/
+reactjs-ai-recipe-generator/
 ├── client/                 # Frontend React application
 │   ├── public/            # Static files
 │   └── src/               # Source files
@@ -99,7 +98,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## 📧 Contact
 
 
-Project Link: [https://github.com/piyush_18/DishCraft](https://github.com/piyush_18/DishCraft)
+Project Link: [https://github.com/piyush_18/DishCraft](https://github.com/piyush118-b/reactjs-ai-recipe-generator)
 
 ## 🙏 Acknowledgments
 
